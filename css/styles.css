@@ -23,7 +23,12 @@ body{
   height: 350px;
 }
 .layer_div{
-  color: #aa5cdb;
+  position: absolute;
+  right: 0;
+  width: 575px;
+  height: 350px;
+  background-color: #aa5cdb;
+  opacity: 0.4;
 }
 .wrapper{
   display: inline-block;
